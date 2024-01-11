@@ -3,6 +3,9 @@
     <title>PHP Test</title>
   </head>
   <body>
-    <?php ?> 
+
+    <?php
+    
+    ?> 
   </body>
 </html>
